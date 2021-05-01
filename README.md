@@ -2,7 +2,7 @@
 MA 490 CNN code
 
 
-This code is part of the NNSS project "Evaluating the Variable Stride ALgorithm". This code can sucessfully do the following:
+This code is part of the NNSS project "Evaluating the Variable Stride Algorithm". This code can sucessfully do the following:
 -Take in diabetic retinopathy data from folders on Google Drive (two classes - 0 and 4)
 -Classify the data into testing and training data
 -Run the data through a convolutional neural network with variable stride as one of the pooling layers
